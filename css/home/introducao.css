@@ -20,18 +20,10 @@
 
 .introducao h1 {
   margin-bottom: 32px;
-  font-size: 4rem;
-  line-height: 1.125;
-  font-family: "Poppins";
-  font-weight: 600;
 }
 
 .introducao p {
   margin-bottom: 20px;
-  font-size: 1.5rem;
-  line-height: 1.5;
-  font-family: "Roboto";
-  font-weight: 400;
 }
 
 .introducao img {
@@ -40,14 +32,6 @@
   border-radius: 4px;
 }
 
-@media (max-width: 1200px) {
-  .introducao h1 {
-    font-size: 3rem;
-  }
-  .introducao p {
-    font-size: 1.1rem;
-  }
-}
 @media (max-width: 800px) {
   .introducao-bg {
     background-color: var(--cor-11);
@@ -67,8 +51,8 @@
   .introducao-conteudo {
     padding-bottom: 0;
   }
+
   .introducao h1 {
-    font-size: 2rem;
     margin-bottom: 16px;
   }
 }

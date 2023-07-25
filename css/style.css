@@ -2,6 +2,7 @@
 
 /* Ultilitades */
 @import "./ultilidades/cores.css";
+@import "./ultilidades/tipografia.css";
 @import "./ultilidades/componentes.css";
 
 @import "./global/header.css";
