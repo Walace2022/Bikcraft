@@ -4,6 +4,7 @@
 @import "./ultilidades/cores.css";
 @import "./ultilidades/tipografia.css";
 @import "./ultilidades/componentes.css";
+@import "./ultilidades/formulario.css";
 
 @import "./global/header.css";
 @import "./global/footer.css";
@@ -29,3 +30,8 @@
 
 /* Termos */
 @import "./termos/termos.css";
+
+/* Contato */
+
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
