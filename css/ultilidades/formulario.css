@@ -11,6 +11,7 @@
 .form .botao {
   justify-self: start;
 }
+
 .form label {
   display: block;
   font: 600 1rem/1.5 "Poppins", sans-serif;
