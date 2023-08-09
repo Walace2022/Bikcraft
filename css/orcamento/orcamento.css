@@ -133,11 +133,12 @@
   border: 1px solid var(--cor-4);
   border-radius: 4px;
   margin-right: 8px;
+  padding: 2px;
 }
 
 .check input:checked + label::before {
-  background: url("../../img/icones/marcador.svg") no-repeat;
-  background-size: cover;
+  background: url("../../img/icones/marcador.svg") center no-repeat;
+  background-size: 20px 20px;
 }
 
 .orcamento-dados {
